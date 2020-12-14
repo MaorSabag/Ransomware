@@ -21,5 +21,5 @@ name "locked_file.zip", than changing the name to "locked_files.zip.aes".
 Then an easygui window will pop telling you to enter the password inorder to decrypt the file.
 
 ```
-./ransomware.sh
+python3 ransomware.py
 ```
