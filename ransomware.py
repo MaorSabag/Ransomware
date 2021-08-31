@@ -5,7 +5,6 @@ import time
 import pyAesCrypt
 import shutil
 
-global PASSWORD
 PASSWORD = 'maor'
 
 def get_files_names():
